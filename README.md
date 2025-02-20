@@ -1,3 +1,4 @@
-# Stackblitzdemo
+A fun single page quote, jokes and compliments generator.
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Divyanshi-A/Stackblitzdemo)
+
+This is not a project,its just a fun experiment with upcoming AI tools
